@@ -1,33 +1,27 @@
- body{
-     /* float: left !important;  */
-    display: flex !important; 
-    flex-wrap: wrap;
-    gap: 20px !important;
-    /* margin: 20px !important; */
 
-} 
 .card{
     height: 80vh !important;
     width: 380px !important;
     margin-top: 1em !important;
-    /* margin-left: 3.5em !important; */
+    margin-left: 3em !important;
     background-color: whitesmoke !important;
 }  
 .card-header{
     background-color:gray !important ;
     text-align: center !important;
     font-weight: bolder !important;
+    font-size: large !important;
 }
 .card-img-top{
     margin-top: 1.7em !important;
     height: 40vh !important;
     width: 90% !important;
-    margin-left: 2em !important;
+    margin-left: 1.5em !important;
 }
 .card-text{
     text-align: center !important;
 }
 .btn{
-    margin-left: 4.5em !important;
+    margin-left: 4.5em !important; 
 
 }
